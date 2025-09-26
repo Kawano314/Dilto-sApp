@@ -1,0 +1,17 @@
+Após a revisão dos requisitos definidos na versão 1 do documento de requisitos e da análise de falhas e ambiguidades, os novos requisitos ficam definidos como sendo:
+
+- Visualização do status de funcionamento do estabelecimento na forma de texto com dois estados possíveis, estilizados por cor, atualizados no servidor a cada cinco minutos ou a cada alteração feita pelo dono do estabelecimento.
+
+- Definição de horários padrão de funcionamento em formato 24h por parte do dono do estabelecimento, que permita definir e programar exceções, além de excluir ou alterar horários já cadastrados.
+
+- Visualização dos horários definidos de funcionamento em formato de tabela, com destaque para o dia atual e horário de funcionamento médio para dias com horário não definido.
+
+- Visualização da lista de produtos com preços atualizados, contendo campos de nome, preço e disponibilidade (obrigatórios), além de campos opcionais de descrição e foto do produto.
+
+- Remoção, adição e edição simples dos produtos a cargo do estabelecimento, permitindo alterar grandes quantidades de produtos simultaneamente, atualizando a cada alteração feita
+
+- Mostra de promoções e descontos destacados no topo da lista de produtos, mostrando o preço original riscado em letras menores e o preço promocional na fonte padrão, além de mostrar o término da promoção.
+
+- Reserva de mesas de sinuca por app, por determinados intervalos de tempo, incluindo preço por tempo, com pagamento no estabelecimento, sem participação da aplicação, com mostra de horários disponíveis.
+
+- A reserva deve gerar notificações para o cliente e para o estabelecimento, mostrar o status de uso da mesa e poder ser cancelada pelo estabelecimento.

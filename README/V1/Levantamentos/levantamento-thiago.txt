@@ -1,0 +1,34 @@
+Pesquisa (Levantamento de Requisitos)
+
+Requisito - Aluguel de Mesas de Sinuca – Gera receita extra e aumenta tempo de permanência dos clientes.
+- Betson (2023): “Clientes permanecem mais tempo quando há mesas de sinuca, aumentando pedidos de bebidas e alimentos.”  
+- Fonte: (https://www.betson.com/enhancing-entertainment-the-benefits-of-adding-coin-op-pool-tables-to-bars-and-other-locations)  
+ 
+Impacto esperado: +20 a 30% nas vendas de conveniência pelo aumento de permanência dos clientes.
+
+---
+
+Entrevista:
+
+1. Como você controla hoje seu estoque de bebidas, cigarros e aperitivos?  
+“Faço tudo de cabeça, desde gravar os preços, quanto ver quando as coisas estão perto de acabar”  
+
+2. Já teve problema com clientes discutindo sobre tempo de uso da mesa de sinuca?  
+“Sim, muitas das vezes os clientes ficam bravos por não ter mesa para jogar e às vezes esqueço até de cobrar.”  
+
+
+3. Em horários de pico, como você organiza a fila para jogar?  
+“É no boca a boca, mas gera confusão.”  
+ 
+
+4. Seus clientes já chegaram na conveniência e encontraram o local fechado sem saber? 
+“Muitas vezes, e acabo perdendo venda.”  
+ 
+
+5. O que você gostaria de melhorar para aumentar suas vendas?
+“Queria que os clientes ficassem mais tempo e consumissem mais.”  
+
+---
+
+Conclusão da Pesquisa
+O requisito proposto pode gerar: 20 a 30% em aumento de vendas devido ao maior tempo de permanência dos clientes.

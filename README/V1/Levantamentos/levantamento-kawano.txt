@@ -1,0 +1,10 @@
+A minha análise de requisitos me levou à junção das informações de um artigo que mostrava como horários de funcionamento estendidos dão vantagem competitiva aos varejistas, especialmente entre clientes leais, que tendem a valorizar a flexibilidade e de uma reportagem da Veja que mostra que muitos estabelecimentos deixam de adotar o funcionamento 24h por conta de gastos e insegurança que não condizem com o baixo retorno financeiro. A partir desses dados foi possível concluir que:
+
+1 - Há um horário ótimo de funcionamento onde os ganhos superam os custos de manter o estabelecimento aberto.
+2 - Aproveitar o máximo do horário ótimo de funcionamento é uma boa forma de maximizar os lucros.
+
+Como o horário ótimo tende a variar em diferentes dias, a flexibilização dos horários de funcionamento é benéfica para o empreendedor. Porém os horários irregulares podem causar insegurança por parte dos consumidores em ir até o estabelecimento. Pensando nisso, defini como requisito da aplicação a exibição dos horários de funcionamento em tempo real.
+
+Reportagem - https://vejasp.abril.com.br/cidades/negocio-24-horas-crise-inseguranca/
+Artigo - https://www.degruyter.com/document/doi/10.1515/bejeap-2015-0063/
+

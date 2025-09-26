@@ -1,0 +1,24 @@
+Revisão de requisitos
+
+História 1 - Como cliente, quero visualizar se a conveniência está aberta ou fechada em tempo real, para não perder a viagem.
+
+Critérios de revisão:
+O requisito está claro sobre como o status será mostrado ao cliente (texto, ícone, cor, etc.)? - Não.
+Qual o intervalo de atualização? - Ainda não foi bem definido
+A implementação é viável? - Sim. Embora precise de integração com servidor.
+Qual servidor será utilizado? - Ainda não foi definido
+
+História 2 - Como dono da conveniência, quero cadastrar os horários de funcionamento, para que os clientes tenham informações corretas.
+
+Critérios de revisão:
+O requisito cobre todos os dias da semana? - Sim
+É possível cadastrar exceções (feriados, horários especiais)? 
+O formato dos horários foi definido(ex.: 24h, AM/PM, intervalos)? - Não
+É possível excluir ou alterar horários já cadastrados? - Sim
+
+História 3 - Como cliente, quero ver o horário de funcionamento semanal, para planejar quando ir até a conveniência.
+
+Critérios de revisão:
+O requisito deixa claro como os horários da semana serão exibidos (lista, tabela, calendário)? - Não
+Está especificado que o dia atual deve ter destaque visual? - Não
+É possível ver o horário médio de funcionamento para um determinado dia? - Não

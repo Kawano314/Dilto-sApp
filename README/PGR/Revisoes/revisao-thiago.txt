@@ -1,0 +1,30 @@
+História 1: "Como cliente, quero reservar uma mesa de sinuca pelo app, para garantir disponibilidade ao chegar."
+
+Critérios de revisão:
+1. Verificar se os horários livres são exibidos de forma clara e sem sobreposição de reservas.
+2. Validar se a reserva só pode ser feita dentro do horário de funcionamento da conveniência.
+3. Conferir se a confirmação da reserva gera algum tipo de feedback ao cliente (mensagem ou notificação).
+4. Testar se reservas duplicadas para a mesma mesa e horário são corretamente bloqueadas.
+5. Avaliar se a experiência de reserva é intuitiva (máximo de 3 a 4 passos).
+
+---
+
+História 2: "Como dono da conveniência, quero limitar o número de reservas, para evitar conflitos de disponibilidade."
+
+Critérios de revisão:
+1. Confirmar se o sistema respeita o limite máximo de mesas cadastradas.
+2. Validar se reservas acima do limite são bloqueadas automaticamente.
+3. Verificar se o dono consegue liberar manualmente uma reserva já registrada sem corromper os dados.
+4. Testar se há registro de auditoria (log) das reservas liberadas manualmente.
+5. Conferir se o sistema mantém consistência mesmo em acessos simultâneos (ex.: dois clientes tentando reservar a mesma mesa ao mesmo tempo).
+
+---
+
+História 3: "Como cliente, quero ser avisado se minha mesa está disponível ou ocupada, para não perder tempo ao chegar."
+
+Critérios de revisão:
+1. Garantir que o status de cada mesa (“Disponível”, “Reservada”, “Ocupada”) seja exibido em tempo real.
+2. Verificar se, após uma reserva confirmada, o status realmente muda para “Reservada”.
+3. Confirmar se o status retorna automaticamente para “Disponível” quando a reserva expira ou é finalizada.
+4. Avaliar se notificações/avisos são claros e chegam ao cliente sem atraso perceptível.
+5. Testar cenários de inconsistência (por exemplo: reserva cancelada no meio do processo) para garantir atualização imediata do status.

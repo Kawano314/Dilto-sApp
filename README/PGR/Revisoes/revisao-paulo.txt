@@ -1,0 +1,21 @@
+"Como cliente, quero visualizar a lista de produtos com preços atualizados, para decidir minhas compras antes de ir."
+
+- O requisito está claro sobre como os produtos serão exibidos? - Não
+- O requisito prevê como tratar produtos indisponíveis ou fora de estoque? - Não
+- O requisito é viável tecnicamente? - Sim
+
+"Como dono da conveniência, quero cadastrar e editar produtos e preços, para manter o catálogo atualizado."
+
+- O requisito está claro sobre quais campos são obrigatórios no cadastro? - Não
+- O requisito garante que alterações feitas pelo dono refletem imediatamente para os clientes? - Sim
+- O requisito cobre inclusão, edição e exclusão de produtos? - Sim
+- É possível validar se um produto foi realmente adicionado, alterado ou removido do catálogo? - Sim
+- O requisito é viável tecnicamente? - Sim
+
+"Como cliente, quero ver promoções e descontos destacados, para aproveitar melhores ofertas."
+
+- O requisito está claro sobre como a promoção será destacada? - Não
+- O requisito garante que o preço promocional não entra em conflito com o preço original? - Sim
+- O requisito cobre início e término da promoção? - Não
+- É possível validar se o produto aparece corretamente com o preço original riscado e o promocional ativo? - Sim
+- O requisito é viável tecnicamente? - Sim
