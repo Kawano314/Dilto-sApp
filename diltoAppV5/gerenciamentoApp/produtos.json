@@ -1,0 +1,41 @@
+[ {
+  "id" : 6,
+  "nome" : "Cerveja Brahma 310 ml",
+  "codigo" : "156",
+  "descricao" : "Sim",
+  "preco" : 5.6,
+  "quantidadeEstoque" : 89,
+  "categoria" : "Cerveja",
+  "dataCadastro" : "2025-10-26T14:23:02.2567094",
+  "dataAtualizacao" : "2025-10-26T14:23:02.2567094"
+}, {
+  "id" : 8,
+  "nome" : "Garrafao",
+  "codigo" : "777",
+  "descricao" : "GARRAFA GRANDE",
+  "preco" : 5.0,
+  "quantidadeEstoque" : 2,
+  "categoria" : "Agua",
+  "dataCadastro" : "2025-10-27T17:17:01.5623232",
+  "dataAtualizacao" : "2025-10-27T17:17:01.5623232"
+}, {
+  "id" : 2,
+  "nome" : "Monitor LG Ultragear 27~",
+  "codigo" : "2469",
+  "descricao" : "Monitor Gamer",
+  "preco" : 700.0,
+  "quantidadeEstoque" : 24,
+  "categoria" : "Monitor",
+  "dataCadastro" : "2025-10-23T17:12:03.2181601",
+  "dataAtualizacao" : "2025-10-27T21:10:27.5699883"
+}, {
+  "id" : 5,
+  "nome" : "Monitor Samsung",
+  "codigo" : "556",
+  "descricao" : "Monitor Samsung Widescreen",
+  "preco" : 1600.0,
+  "quantidadeEstoque" : 2,
+  "categoria" : "Monitor",
+  "dataCadastro" : "2025-10-25T17:42:24.6532627",
+  "dataAtualizacao" : "2025-10-25T17:42:24.6532627"
+} ]

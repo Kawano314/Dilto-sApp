@@ -1,0 +1,78 @@
+[ {
+  "id" : 1,
+  "diaSemana" : "MONDAY",
+  "horarioAbertura" : "08:00:00",
+  "horarioFechamento" : "18:00:00",
+  "fechado" : false,
+  "dataEspecial" : null,
+  "observacao" : null,
+  "diaSemanaFormatado" : "Segunda-feira",
+  "horarioFormatado" : "08:00–18:00",
+  "horarioEspecial" : false
+}, {
+  "id" : 2,
+  "diaSemana" : "TUESDAY",
+  "horarioAbertura" : "08:00:00",
+  "horarioFechamento" : "18:00:00",
+  "fechado" : false,
+  "dataEspecial" : null,
+  "observacao" : null,
+  "diaSemanaFormatado" : "Terça-feira",
+  "horarioFormatado" : "08:00–18:00",
+  "horarioEspecial" : false
+}, {
+  "id" : 3,
+  "diaSemana" : "WEDNESDAY",
+  "horarioAbertura" : "08:00:00",
+  "horarioFechamento" : "18:00:00",
+  "fechado" : false,
+  "dataEspecial" : null,
+  "observacao" : null,
+  "diaSemanaFormatado" : "Quarta-feira",
+  "horarioFormatado" : "08:00–18:00",
+  "horarioEspecial" : false
+}, {
+  "id" : 4,
+  "diaSemana" : "THURSDAY",
+  "horarioAbertura" : "08:00:00",
+  "horarioFechamento" : "18:00:00",
+  "fechado" : false,
+  "dataEspecial" : null,
+  "observacao" : null,
+  "diaSemanaFormatado" : "Quinta-feira",
+  "horarioFormatado" : "08:00–18:00",
+  "horarioEspecial" : false
+}, {
+  "id" : 5,
+  "diaSemana" : "FRIDAY",
+  "horarioAbertura" : "08:00:00",
+  "horarioFechamento" : "17:00:00",
+  "fechado" : false,
+  "dataEspecial" : null,
+  "observacao" : null,
+  "diaSemanaFormatado" : "Sexta-feira",
+  "horarioFormatado" : "08:00–17:00",
+  "horarioEspecial" : false
+}, {
+  "id" : 6,
+  "diaSemana" : "SATURDAY",
+  "horarioAbertura" : null,
+  "horarioFechamento" : null,
+  "fechado" : true,
+  "dataEspecial" : null,
+  "observacao" : null,
+  "diaSemanaFormatado" : "Sábado",
+  "horarioFormatado" : "Fechado",
+  "horarioEspecial" : false
+}, {
+  "id" : 7,
+  "diaSemana" : "SUNDAY",
+  "horarioAbertura" : null,
+  "horarioFechamento" : null,
+  "fechado" : true,
+  "dataEspecial" : null,
+  "observacao" : null,
+  "diaSemanaFormatado" : "Domingo",
+  "horarioFormatado" : "Fechado",
+  "horarioEspecial" : false
+} ]
