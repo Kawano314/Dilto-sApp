@@ -1,2 +1,0 @@
-O processo de revisão e validação dos requisitos está descrito na pasta requisitos. 
-O versionamento continuará sendo feito via git e a definição de tarefas por meio do trello.
